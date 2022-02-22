@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: localhost
+    database_port: null
+    database_name: "id18435162_webflix"
+    database_user: "id18435162_root"
+    database_password: "&3TxV>[4hF%|$<z"
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 2d77c4f071de0de84c8ccddd698c94ae07fd1eba
